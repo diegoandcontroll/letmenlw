@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto-em-producao">Projeto em Produção</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">How to run?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto-em-producao">Production</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -18,32 +18,32 @@
   <img alt="Letmeask" src=".github/mock.jpg" width="100%">
 </p>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Firebase](http://firebase.google.com)
 
-## 💻 Projeto
+## 💻 Project
 
-O letmeask é um app onde é possivel criar e entrar em sala de perguntas, muito útil para quem faz lives, reuniões e precisa de um app para gerenciar as perguntas.
+Letmeask is an app where you can create and enter a question room, very useful for those who do lives, meetings and need an app to manage questions.
 
 <p align="center">
   <img alt="Letmeask" src=".github/mock2.jpg" width="100%">
 </p>
 
-## 🚀 Como executar
+## 🚀 How to run
 
-- Clone o repositório
-- Instale as dependências com `yarn`
-- Inicie o servidor com `yarn dev`
+- Clone the repository
+- Install dependencies with `yarn`
+- Start the server with `yarn start`
 
-Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+You can now access [`localhost:3000`](http://localhost:3000) from your browser.
 
-## 💻 Projeto em Execução
+## 💻 Project in Execution
 
-- [Clique aqui!](https://letmeask-80e86.web.app)
+- [Click here!](https://letmeask-80e86.web.app)
 
 ---
